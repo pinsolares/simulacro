@@ -1,3 +1,5 @@
 ESTO ES UN SIMULACRO
 
-Aquí vamos a hacer unas pruebas con git
+Aquí vamos a hacer unas pruebas con git...
+Empezamos a trabajar
+
