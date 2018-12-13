@@ -5,5 +5,5 @@ Empezamos a trabajar
 
 
 ---
-Esta sería la versión de explotación
+* Esta sería la versión de explotación *
 ---
