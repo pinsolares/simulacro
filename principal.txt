@@ -4,6 +4,6 @@ Aquí vamos a hacer unas pruebas con git...
 Empezamos a trabajar
 
 
----
+---===---
 * Esta sería la versión de explotación *
----
+---===---
